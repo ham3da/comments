@@ -35,5 +35,7 @@
                 "Laravelista\\Comments\\ServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
