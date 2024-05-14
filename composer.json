@@ -11,6 +11,11 @@
             "name": "Mario Bašić",
             "email": "mario@laravelista.hr",
             "homepage": "https://laravelista.hr"
+        },
+         {
+            "name": "Javad Ehteshami",
+            "email": "ham3da.j@gmail.com",
+            "homepage": "https://ham3da.ir"
         }
     ],
     "require": {
